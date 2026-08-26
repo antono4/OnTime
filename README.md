@@ -1,1 +1,26 @@
-Last updated: 2026-08-26 20:12:28 WIB
+# OnTime
+
+
+
+## 📋 Overview
+
+This repository contains **100 files** and is built with the following technologies:
+
+HTML, JavaScript
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-26 20:42:52 WIB*
