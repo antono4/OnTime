@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://github.com/antono4/OnTime"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/OnTime-blue?logo=github"></a>
   <a href="https://antono4.github.io/OnTime/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
-  <img alt="Files" src="https://img.shields.io/badge/Files-102-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-18 08:08:58 WIB-lightgrey">
+  <img alt="Files" src="https://img.shields.io/badge/Files-101-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-18 13:32:11 WIB-lightgrey">
 </p>
 
 ---
@@ -37,7 +37,7 @@ Berdasarkan isi repository, proyek ini menggunakan:
 - `CSS`
 - `JavaScript`
 
-> Total **102 file** terdeteksi di repository.
+> Total **101 file** terdeteksi di repository.
 
 ## 🚀 Menjalankan Secara Lokal
 
@@ -63,5 +63,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-09-18 08:08:58 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
-Last updated: 2026-09-18 13:15:51 WIB
+<sub>README ini di-generate otomatis pada **2026-09-18 13:32:11 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
